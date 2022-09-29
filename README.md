@@ -1,4 +1,14 @@
-# cz9aPNSr
+# Unit Converter
+A simple unit converter made that allows users to convert these units:
+- meters <-> feet
+- liters <-> gallons
+- kilograms <-> pounds
+
+## Requirements
+A web browser capable of HTML5, CSS3 and JavaScript
+
+## Notes
+Exercise code: ```cz9aPNSr```
 
 ## About Scrimba
 
