@@ -31,6 +31,9 @@ convertBtn.addEventListener("click", function () {
         alert("Error! Can only input decimal characters!")
         return
     }
+    if (valueToConvert[0] === 0) {
+        alert("Error! Cannot process zero or empty field!")
+    }
     showResults()
 })
 
