@@ -4,6 +4,8 @@ A simple unit converter made that allows users to convert these units:
 - liters <-> gallons
 - kilograms <-> pounds
 
+![image](https://user-images.githubusercontent.com/57393100/193039049-e0ff2dd6-bc1d-4339-86f7-5a47a549ee27.png)
+
 ## Requirements
 A web browser capable of HTML5, CSS3 and JavaScript
 
